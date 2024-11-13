@@ -1,0 +1,221 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
+
+.love{
+    margin-top: -35px;
+    width: 1920px;
+    height: 500px;
+    border-radius: 10%;
+}
+
+.p1{
+    font-size: 50px;
+    padding: 20px;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.p3{
+    margin-top: -122px;
+    padding: 5px;
+    font-size:60px;
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.font{
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;  
+    font-size: 30px;
+    text-align: left;
+    width: 1500px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.katulo{
+    margin-top: -150px;
+    height: 1000px;
+    width: 100%;
+    background: linear-gradient(#3C3D37, #FFCCEA, #FF8C9E);
+    text-align: center;
+}
+
+.atik{
+    box-shadow: 0 8px 10px #921A40;
+    border-radius: 15px;
+    margin: 20px;
+    margin-top: 50px;
+    width: 260px;
+    height: 290px;
+    transition: 1s;
+}
+
+div{
+    display: inline-block;
+}
+
+p{
+    color: #E0E0E0;
+    font-family: "Nerko One", cursive;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.pic1{
+    height: 350px;
+    width: 350px;
+    margin-left: 1150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.love:hover{
+    content: url(./website/image/bini2.jpg);
+}
+
+.font2{
+    padding: 20px;
+    margin-top: -400px;
+    margin-left: 300px;
+    color:white;
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.cherry{
+    box-shadow: 0 8px 10px #921A40;
+    border-radius: 15px;
+    margin-bottom: -05px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.kaupat{
+    border-radius: 15px;
+    margin-left: 400px;
+    height: 460px;
+    width: 1500px;
+    border:0;
+    padding: 20px;
+    background-color: #F78080;
+}
+
+.kalima{
+    margin-top: -235px;
+    margin-left: 400px;
+    height: 460px;
+    width: 990px;
+    border:0;
+    padding: 20px;
+    background-color: #F78080;
+}
+
+.salamin{
+    margin-bottom: -70px;
+    margin-left: 1300px;
+}
+
+.atik:hover{
+    transform:translateY(-20px);
+    z-index: 2;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+nav a{
+    box-shadow: 0 8px 10px #CB80AB;
+    text-align: center;
+    width: 200px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 15px;
+    margin: 30px;
+    background-color: #B692C2;  
+    border-radius: 10px;
+    transition: .5s;
+    
+}
+
+nav a:hover{
+    transform:scaleY(1px)
+    z-index: 2;
+}
+
+.bg{
+    width: 100%;
+    height: 120px;
+    background: linear-gradient(#FF8C9E, #FFCCEA, #3C3D37);
+
+}
+
+.stang{
+    height: 570px;
+    width: 100%;
+    background-image: url(./website/image/image\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.p2{
+    text-align: center;
+    padding: 20px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sam{
+    width: 1300px;
+}
+
+
+.hays{
+    text-align: center;
+    padding: 10px;
+    background-color:pink;
+    height: 20px;
+    width: 110px;
+    border-radius: 15px;
+    margin-left: 310px;
+}
+
+.jems{
+    background: linear-gradient(#C75B7A, pink, gray);
+}
